@@ -1,0 +1,15 @@
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.deps.json
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.dll
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\bin\Debug\net6.0\BookStore.Repository.pdb
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.dll
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\bin\Debug\net6.0\BookStore.Models.pdb
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.csproj.CopyComplete
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.dll
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\refint\BookStore.Repository.dll
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\BookStore.Repository.pdb
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net6.0\ref\BookStore.Repository.dll

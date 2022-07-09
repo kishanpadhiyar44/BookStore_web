@@ -1,0 +1,5 @@
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\devan\source\repos\BookStore.Api\BookStore.Repository\obj\Debug\net5.0\BookStore.Repository.csproj.CoreCompileInputs.cache
